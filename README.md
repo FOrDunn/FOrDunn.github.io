@@ -1,9 +1,4 @@
 
-![banner](./Banner_FORDUN.png)
-
-
-
-
 <h3>Welcome to my profile!</h3>
 
 <p align="left">
